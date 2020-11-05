@@ -1,5 +1,7 @@
 # Python-clculator
-#This is a simple calculator made using python.
+
+
+
 import time
 try:
     while True:#loop
@@ -31,3 +33,5 @@ try:
 
 finally:
     print("Ok! ")
+    
+    
